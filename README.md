@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 English version repo and Gitbook is on [english branch](https://github.com/labuladong/fucking-algorithm/tree/english). Just enjoy：)
 
@@ -181,18 +182,36 @@ These articles go over different kinds of **Algorithmic Thinking**. All are base
 I don't like one-liners. They can be confusing. I like clear, easily understandable code.
 
 The **Gitbook** has been deployed and will sync with this branch of the repo: https://labuladong.gitbook.io/algo-en/
+=======
+English translation is still processing... Some articles are still in Chinese, but most are completed. Please **star** this repo, when you come back soon, translation will finish perfectly. Just enjoy.
+
+These articles are somehow kinds of **Algorithmic Thinking**. All based on LeetCode problems, but **NOT ONLY the code of solution, but also WHY writing code this way, HOW we figure it out.**
+
+I don't like one liner and confusing, I like clear and easy-understanding.
+
+**Gitbook** has deployed, will sync with this branch of the repo: https://labuladong.gitbook.io/algo-en/
+>>>>>>> origin/english
 
 If you want to clone this repo, please use following command:
 
 ```shell
 git clone --depth 1  --branch english https://github.com/labuladong/fucking-algorithm.git
 ```
+<<<<<<< HEAD
 This command specifies the `english` branch and will limit the depth of the clone and get rid of the Git commit history, which can be faster to clone.
 
 # Table of Contents
 
 * I. Dynamic Programming
   * [Dynamic Programming in Details](dynamic_programming/AnalysisOfDynamicProgramming.md)
+=======
+This command specifies the `english` branch and limit the depth of clone, get rid of the Git commit history, which can be faster to clone.
+
+# Table of Content
+
+* I. Dynamic Programming
+  * [Dynamic Programming in Detials](dynamic_programming/AnalysisOfDynamicProgramming.md)
+>>>>>>> origin/english
   * [Classic DP: Edit Distance](dynamic_programming/EditDistance.md)
   * [Classic DP: Super Egg](dynamic_programming/ThrowingEggsinHighBuildings.md)
   * [Classic DP: Super Egg(Advanced Solution)](dynamic_programming/SuperEggDropAdvanced.md)
@@ -206,11 +225,19 @@ This command specifies the `english` branch and will limit the depth of the clon
   * [Longest Increasing Subsequence](dynamic_programming/LongestIncreasingSubsequence.md)
   * [KMP Algorithm In Detail](dynamic_programming/KMPCharacterMatchingAlgorithmInDynamicProgramming.md)
   * [House Robber Problems](dynamic_programming/HouseRobber.md)
+<<<<<<< HEAD
   * [Stock Buy and Sell Problems](dynamic_programming/BestTimeToBuyAndSellStock.md)
 
 * II. Data Structures
   * [Binary Head and Priority Queue](data_structure/binary_heap_implements_priority_queues.md)
   * [LRU Cache Strategy in Detail](interview/LRU_algorithm.md)
+=======
+  * [团灭 LeetCode 股票买卖问题](dynamic_programming/团灭股票问题.md)
+  
+* II. Data Structure
+  * [Binary Head and Priority Queue](data_structure/binary_heap_implements_priority_queues.md)
+  * [LRU Cache Strategy in Detial](interview/LRU_algorithm.md)
+>>>>>>> origin/english
   * [Collections of Binary Search Operations](data_structure/The_Manipulation_Collection_of_Binary_Search_Tree.md)
   * [Special Data Structure: Monotonic Stack](data_structure/MonotonicStack.md)
   * [Special Data Structure: Monotonic Stack](data_structure/Monotonic_queue.md)
@@ -223,7 +250,11 @@ This command specifies the `english` branch and will limit the depth of the clon
 * III. Algorithmic thinking
   * [My Way to Learn Algorithm](think_like_computer/ThewaytoAlgorithmlearning.md)
   * [The Framwork of Backtracking Algorithm](think_like_computer/DetailsaboutBacktracking.md)
+<<<<<<< HEAD
   * [Binary Search in Detail](think_like_computer/DetailedBinarySearch.md)
+=======
+  * [Binary Search in Detial](think_like_computer/DetailedBinarySearch.md)
+>>>>>>> origin/english
   * [The Tech of Double Pointer](think_like_computer/double_pointer.md)
   * [The Key Concept of TowSum Problems](think_like_computer/The_key_to_resolving_TwoSum_problems.md)
   * [Divide Complicated Problem: Implement a Calculator](data_structure/Implementing_the_functions_of_a_calculator.md)
@@ -238,10 +269,22 @@ This command specifies the `english` branch and will limit the depth of the clon
   * [Russian Doll Envelopes Problem](think_like_computer/RussianDollEnvelopes.md)
   * [Recursion In Detail](data_structure/RecursionInDetail.md)
   * [Backtracking Solve Subset/Permutation/Combination](interview/Subset_Permutation_Combination.md)
+<<<<<<< HEAD
   * [Several counter-intuitive Probability Problems](think_like_computer/several_counter_intuitive_probability_problems.md)
   * [Shuffle Algorithm](think_like_computer/Shuffle_Algorithm.md)
 
 * IV. High Frequency Interview Problems
+=======
+<<<<<<< HEAD
+  * [Several counter-intuitive Probability Problems](think_like_computer/several_counter_intuitive_probability_problems.md)
+  * [Shuffle Algorithm](think_like_computer/Shuffle_Algorithm.md)
+=======
+  * [几个反直觉的概率问题](think_like_computer/几个反直觉的概率问题.md)
+  * [洗牌算法](think_like_computer/洗牌算法.md)
+>>>>>>> parent of 64a9fae... Merge pull request #213 from Lyjeeq/english
+
+* IV. High Frequency Interview Problem
+>>>>>>> origin/english
   * [How to Implement LRU Cache](interview/LRU_algorithm.md)
   * [How to Find Prime Number Efficiently](interview/Print_PrimeNumbers.md)
   * [How to Calculate Minimium Edit Distance](dynamic_programming/EditDistance.md)
@@ -266,5 +309,9 @@ This command specifies the `english` branch and will limit the depth of the clon
   * [You Must Know About Linux Shell](common_knowledge/linuxshell.md)
   * [You Must Know About Cookie and Session](common_knowledge/SessionAndCookie.md)
   * [Cryptology Algorithm](common_knowledge/Cryptology.md)
+<<<<<<< HEAD
   * [Some Good Online Pratice Platforms](common_knowledge/OnlinePraticePlatform.md)
 >>>>>>> Stashed changes
+=======
+  * [Some Good Online Pratice Platforms](common_knowledge/OnlinePraticePlatform.md)
+>>>>>>> origin/english
